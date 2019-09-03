@@ -7,7 +7,6 @@ public class RunTwo {
     public static void main(String[] args) {
         printGreatNumber();
     }
-
     public static void printGreatNumber() {
         try {
             Scanner scanner = new Scanner(System.in);

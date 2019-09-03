@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloJava/HelloJava.iml" filepath="$PROJECT_DIR$/HelloJava/HelloJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Packman/Packman.iml" filepath="$PROJECT_DIR$/Packman/Packman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxNumber/MaxNumber.iml" filepath="$PROJECT_DIR$/MaxNumber/MaxNumber.iml" />
     </modules>
   </component>
 </project>

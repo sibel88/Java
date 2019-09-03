@@ -13,7 +13,7 @@ public class RunTwo {
             Scanner scanner = new Scanner(System.in);
             message("Please enter your first number");
             int num1 = scanner.nextInt();
-            message("Please enter6 your second number");
+            message("Please enter your second number");
             int num2 = scanner.nextInt();
             if (num1 > num2) {
                 message(num1, num2);

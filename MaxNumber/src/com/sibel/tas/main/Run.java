@@ -4,6 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Run {
+
     public static void main(String[] args) {
 
         try {
@@ -26,4 +27,3 @@ public class Run {
 
     }
 }
-

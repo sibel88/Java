@@ -10,8 +10,8 @@ public class MidtermFinalGrade {
         System.out.println("Please enter your midterm grade");
         double finalgrade = scanner.nextInt();
 
-        if (finalgrade > 45) {
-            System.out.println("you are pass");
+        if (finalgrade < 45) {
+            System.out.println("you are not pass");
         } else if (finalgrade * 0.6 + midterm * 0.4 > 50) {
             System.out.println("you are pass");
         } else {

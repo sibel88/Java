@@ -1,5 +1,6 @@
 package com.sibel.tas.methods;
 
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

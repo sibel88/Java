@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloJava/HelloJava.iml" filepath="$PROJECT_DIR$/HelloJava/HelloJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxNumber/MaxNumber.iml" filepath="$PROJECT_DIR$/MaxNumber/MaxNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidtermFinalGrade/MidtermFinalGrade.iml" filepath="$PROJECT_DIR$/MidtermFinalGrade/MidtermFinalGrade.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.sibel.tas;
+package com.sinan.tas.sibel.tas;
 
 import java.util.Scanner;
 

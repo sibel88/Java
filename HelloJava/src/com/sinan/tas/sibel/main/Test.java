@@ -1,4 +1,4 @@
-package com.sibel.main;
+package com.sinan.tas.sibel.main;
 
 public class Test {
 

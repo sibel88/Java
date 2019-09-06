@@ -2,7 +2,7 @@ package com.sinan.tas;
 
 import java.util.Scanner;
 
-public class PozitifNegatifNumber {
+public class PositiveNegativeNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter one number from keyboard ");

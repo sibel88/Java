@@ -1,4 +1,4 @@
-package com.sibel.tas.main;
+package com.sinan.tas.sibel.tas.main;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

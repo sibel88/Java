@@ -1,4 +1,4 @@
-package com.sibel.tas.methods;
+package com.sinan.tas.sibel.tas.methods;
 
 
 import java.util.InputMismatchException;

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayExampleFirst/ArrayExampleFirst.iml" filepath="$PROJECT_DIR$/ArrayExampleFirst/ArrayExampleFirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayQuestion/ArrayQuestion.iml" filepath="$PROJECT_DIR$/ArrayQuestion/ArrayQuestion.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloJava/HelloJava.iml" filepath="$PROJECT_DIR$/HelloJava/HelloJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/6/MaxNumber/MaxNumber.iml" filepath="$PROJECT_DIR$/6/MaxNumber/MaxNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidtermFinalGrade/MidtermFinalGrade.iml" filepath="$PROJECT_DIR$/MidtermFinalGrade/MidtermFinalGrade.iml" />

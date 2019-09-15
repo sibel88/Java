@@ -7,6 +7,11 @@ public class Run {
                 "Ali",
                 "Sinan"
         };
+
+        for (int i = 0; i < array.length; i++) {
+
+
+        }
     }
 }
 

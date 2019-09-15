@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysSorting/ArraysSorting.iml" filepath="$PROJECT_DIR$/ArraysSorting/ArraysSorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dictionary/Dictionary.iml" filepath="$PROJECT_DIR$/Dictionary/Dictionary.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloJava/HelloJava.iml" filepath="$PROJECT_DIR$/HelloJava/HelloJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/6/MaxNumber/MaxNumber.iml" filepath="$PROJECT_DIR$/6/MaxNumber/MaxNumber.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Operations/Operations.iml" filepath="$PROJECT_DIR$/Operations/Operations.iml" />
       <module fileurl="file://$PROJECT_DIR$/WholeNumber/WholeNumber.iml" filepath="$PROJECT_DIR$/WholeNumber/WholeNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrom/palindrom.iml" filepath="$PROJECT_DIR$/palindrom/palindrom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>

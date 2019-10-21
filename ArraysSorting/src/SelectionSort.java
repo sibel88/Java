@@ -13,13 +13,10 @@ public class SelectionSort {
                     minindex = j;
                 }
 
-
-
             }
             temp = array[i];
             array[i] = array[minindex];
             array[minindex] = temp;
-
         }
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i]);
